@@ -1,3 +1,19 @@
-/trash
+# Игнорирование файлов с расширением .pcapng
+*.pcapng
+
+
+# Игнорирование директории `__pycache__`
+__pycache__/
+
+
+# Игнорирование директории `venv
+venv/
+
+
+# Игнорирование других файлов и директорий
+_trash
+конспекты
 *.docx
 very_large_text_file.txt
+MY_CREDENTIALS.PY
+
